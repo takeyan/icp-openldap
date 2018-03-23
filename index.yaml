@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  icp-openldap:
+  - apiVersion: v1
+    created: 2018-03-23T09:28:56.100585+09:00
+    description: A OpenLDAP Chart for Kubernetes
+    digest: 006ac92d462f8b77307a985be41b42cb4a42c0d9f76306eb4f3e9870e7b32a44
+    engine: gotpl
+    home: https://www.openldap.ort
+    keywords:
+    - ldap
+    maintainers:
+    - email: hans.kristian.moen@gmail.com
+      name: Hans Kristian Moen
+    name: icp-openldap
+    sources:
+    - https://github.com/openldap/openldap
+    urls:
+    - https://raw.githubusercontent.com/takeyan/icp-openldap/master/icp-openldap-0.1.5.1.tgz
+    version: 0.1.5.1
+generated: 2018-03-23T09:28:56.063485+09:00
